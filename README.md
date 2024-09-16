@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rimsha-Sanaullah
 - 👀 I’m interested in Web development.
-- 🌱 I’m currently learning Frontend development.
+- 🌱 I’m currently MERN development.
 - 📫 How to reach me riimshasanaullah56@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: code for fun
