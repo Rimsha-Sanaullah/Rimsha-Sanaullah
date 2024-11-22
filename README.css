@@ -1,0 +1,125 @@
+/* Gradient divider */
+.gradient-divider {
+    background: linear-gradient(90deg, #FF6F61, #FFD700, #7FFF00, #00BFFF, #8A2BE2);
+    height: 5px;
+    margin: 20px 0;
+    border-radius: 50px;
+  }
+  
+  /* Project table styles */
+  .project-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .project {
+    text-align: center;
+    padding: 15px;
+  }
+  
+  .project-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .emoji {
+    font-size: 48px;
+    margin-bottom: 10px;
+  }
+  
+  /* Animation keyframes */
+  @keyframes float {
+    0% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }
+  
+  @keyframes bounce {
+    0%,
+    100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-15px);
+    }
+  }
+  
+  @keyframes rotate {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
+  @keyframes pulse {
+    0%,
+    100% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+  }
+  
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  /* Applying animations */
+  .float {
+    animation: float 3s ease-in-out infinite;
+  }
+  
+  .bounce {
+    animation: bounce 2s infinite;
+  }
+  
+  .rotate {
+    animation: rotate 5s linear infinite;
+  }
+  
+  .pulse {
+    animation: pulse 2s infinite;
+  }
+  
+  .fadeIn {
+    animation: fadeIn 3s infinite;
+  }
+  
+  /* Tech stack styles */
+  .tech-stack {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    font-size: 16px;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .tech-stack span {
+    background: #f4f4f4;
+    padding: 5px 10px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  /* Centering the thank-you message */
+  .centered {
+    text-align: center;
+    margin: 20px 0;
+  }
+  

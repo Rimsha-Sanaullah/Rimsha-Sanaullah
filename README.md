@@ -1,76 +1,99 @@
-# Hi there! 👋 I'm Rimsha Sanaullah 
+# 👋 Hi there! I'm **Rimsha Sanaullah**
 
-I'm a passionate **MERN Developer** with a keen interest in building web applications and solving real-world problems with code. My current focus is on full-stack development using **MongoDB, Express.js, React, and Node.js**.
+> 🚀 Passionate **MERN Developer** | Problem Solver | Web Enthusiast  
+> 🌈 "Building user-focused solutions with creativity, efficiency, and love for code."
 
----
+<div class="gradient-divider"></div>
 
-### 👩‍💻 About Me:
-- 🔭 I’m currently working on various projects to sharpen my **MERN stack** skills.
-- 🌱 I’m always eager to learn new technologies and improve my coding skills.
-- 🎯 **Goals**: To contribute to open-source projects and become a better developer every day.
-- 😄 **Pronouns**: She/Her
-- ⚡ **Fun fact**: I love solving puzzles and coding for fun!
+## 🚀 Featured Projects  
 
----
+> **Discover and explore my work below!**
 
-### 🚀 Projects:
-Here are some of my favorite projects I've worked on:
+<table class="project-table">
+  <tr>
+    <td class="project" width="50%">
+      <a href="https://sign-in-page-ashy.vercel.app/">
+        <div class="project-content float">
+          <span class="emoji">🔐</span>
+          <br />
+          <strong>Login Page</strong>
+        </div>
+      </a>
+      <p>A dynamic login and sign-up page built with <strong>React</strong> and <strong>Material UI</strong>.</p>
+    </td>
+    <td class="project" width="50%">
+      <a href="https://weather-forecasting-app.vercel.app/">
+        <div class="project-content bounce">
+          <span class="emoji">☁️</span>
+          <br />
+          <strong>Weather Forecasting App</strong>
+        </div>
+      </a>
+      <p>A real-time weather dashboard using <strong>React</strong> and <strong>OpenWeather API</strong>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td class="project" width="50%">
+      <a href="https://temperature-converter-nine-iota.vercel.app/">
+        <div class="project-content rotate">
+          <span class="emoji">🌡️</span>
+          <br />
+          <strong>Temperature Converter</strong>
+        </div>
+      </a>
+      <p>A sleek <strong>React</strong> app for temperature conversions.</p>
+    </td>
+    <td class="project" width="50%">
+      <a href="https://main--darling-narwhal-09add5.netlify.app/">
+        <div class="project-content pulse">
+          <span class="emoji">📝</span>
+          <br />
+          <strong>To-Do List App</strong>
+        </div>
+      </a>
+      <p>An efficient task management app built with <strong>React</strong> and local storage.</p>
+    </td>
+  </tr>
+</table>
 
-1. **[Login Page](https://sign-in-page-ashy.vercel.app/)**  
-   A dynamic login and sign-in pages built using **React** and **Material UI**. It displays name, email, password, and password confirmation input.  
-   **Deployed Link**: [Live App](https://sign-in-page-ashy.vercel.app/)  
-   **GitHub Repo**: [Repo](https://github.com/Rimsha-Sanaullah/SignIn-page)
+<div class="gradient-divider"></div>
 
-2. **[Weather Forecasting Website](https://github.com/Rimsha-Sanaullah/Weather-Forecasting)**  
-   A dynamic weather forecasting dashboard built using **React** and **OpenWeather API**. It displays weather data based on user location and input, and visualizes the forecast using **Chart.js**.  
-   **Deployed Link**: [Live App](https://github.com/Rimsha-Sanaullah/Weather-Forecasting)  
-   **GitHub Repo**: [Repo](https://github.com/Rimsha-Sanaullah/Weather-Forecasting)
+## 💻 Tech Stack  
 
-3. **[Temperature Converter](https://temperature-converter-nine-iota.vercel.app/)**  
-   A responsive, single-page **React** application showcasing temperature converting skills.  
-   **Deployed Link**: [Live App](https://temperature-converter-nine-iota.vercel.app/)  
-   **GitHub Repo**: [Repo](https://github.com/Rimsha-Sanaullah/Temperature-Converter)
+<div class="tech-stack">
+  <span>💻 JavaScript</span>
+  <span>⚛️ React</span>
+  <span>🌿 Node.js</span>
+  <span>📦 MongoDB</span>
+  <span>🎨 Material UI</span>
+  <span>🔗 Express.js</span>
+  <span>📄 HTML5</span>
+  <span>🎨 CSS3</span>
+</div>
 
-4. **[To-Do Website](https://main--darling-narwhal-09add5.netlify.app/)**  
-   A simple and efficient **To-Do List** application built using **React**, enabling users to add, edit, and delete tasks effortlessly. This project emphasizes the use of local storage to save tasks and maintain state across sessions.  
-   **Deployed Link**: [Live App](https://main--darling-narwhal-09add5.netlify.app/)     
-   **GitHub Repo**: [Repo](https://github.com/Rimsha-Sanaullah/To-Do-Website)
+<div class="gradient-divider"></div>
 
-> Explore these projects live by visiting the links above!
+## 📊 GitHub Stats  
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Rimsha-Sanaullah&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rimsha-Sanaullah&theme=tokyonight" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
----
+<div class="gradient-divider"></div>
 
-### 💻 Tech Stack:
+## 📫 Let's Connect  
 
-Here are some of the technologies I love working with:
+- 📧 **Email**: [riimshasanaullah56@gmail.com](mailto:riimshasanaullah56@gmail.com)  
+- 💼 **LinkedIn**: [Rimsha Sanaullah](https://www.linkedin.com/in/rimsha-sanaullah-a51915303/)  
+- 🌐 **Portfolio**: [rimsha.dev](#)  
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
----
-
-### 📈 GitHub Stats:
-![Rimsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rimsha-Sanaullah&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rimsha-Sanaullah&theme=radical)](https://git.io/streak-stats)
-
----
-
-### 📫 How to reach me:
-- **Email**: [riimshasanaullah56@gmail.com](mailto:riimshasanaullah56@gmail.com)
-- **LinkedIn**: [Rimsha Sanaullah](#) _(www.linkedin.com/in/rimsha-sanaullah-a51915303)_
-
----
-
-### 🌟 Fun Section:
-- **Quote I live by**: _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
-- **Hobbies**: Besides coding, I enjoy reading, exploring new technologies, and playing with code challenges!
-
----
-
-Feel free to connect with me if you'd like to collaborate on projects or just chat about development!
+<div class="centered fadeIn">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F4A261&width=435&lines=Thank+You+for+Visiting!+🌟" alt="Thank you message" />
+</div>
